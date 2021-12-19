@@ -1,0 +1,14 @@
+body{
+    background: url("watercolor-birthday-background-with-empty-space_52683-42227.jpg");
+    background-size: cover;
+}
+
+h3
+{
+  font-size: 25px;
+}
+canvas {
+    border-style: ridge;
+    border-color:crimson ;
+    border-width: 10px solid;
+}
